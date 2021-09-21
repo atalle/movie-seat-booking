@@ -10,6 +10,6 @@ Vanilla JS web project with movie and seat selection to purchase tickets! Comple
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
 
-I also updated the UI slightly to improve legibility 👇
+I also updated the UI slightly to improve usability 👇
 
 <img width="2751" alt="talle-seat" src="https://user-images.githubusercontent.com/66145951/130550572-cd706644-fab0-4000-8d07-c6feb9bc72d2.png">
